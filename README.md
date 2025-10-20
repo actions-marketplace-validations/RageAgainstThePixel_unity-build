@@ -1,9 +1,11 @@
 # Unity Build Pipeline
 
+> [!IMPORTANT]
+> This action has been depricated in favor of resuable workflows found in [RageAgainstThePixel/workflows](https://github.com/RageAgainstThePixel/workflows/tree/main/.github/workflows)
+
 A GitHub Action that builds Unity based projects.
 
-> **Warning**
->
+> [!WARNING]
 > This action requires that your Unity project be setup and using the [com.utilities.buildpipeine](https://github.com/RageAgainstThePixel/com.utilities.buildpipeine) package from OpenUPM
 
 [![openupm](https://img.shields.io/npm/v/com.utilities.buildpipeline?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.utilities.buildpipeline/)
